@@ -7,10 +7,10 @@
 ## ✅ Phase 0: Ideation & Community Formation *(Q2 2025)*
 
 - [x] Define project scope and vision under ORES
-- [x] Draft project README, charter, and initial materials
-- [x] Present at LF Energy Summit & recruit contributors
-- [ ] Launch GitHub repo and mailing list presence
+- [x] Draft project README, and initial materials
+- [x] Launch GitHub repo
 - [ ] Landscape scan of existing standards, models, and AI agent frameworks
+- [ ] Present at [LF Energy Summit](https://events.linuxfoundation.org/lfenergysummit-europe/) & recruit contributors (Chris, Karl, Pierre, Emilio, Holger, etc)
 
 ---
 
