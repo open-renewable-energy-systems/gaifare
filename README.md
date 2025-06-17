@@ -53,7 +53,7 @@ To empower every device, appliance, and home to become an intelligent energy nod
 
 ## 🧑‍🤝‍🧑 Get Involved
 
-We welcome contributors from energy, AI, and software engineering backgrounds. You can:
+We welcome contributors from energy, AI, academia, and software and hardware engineering backgrounds. You can:
 - Join the LF Energy ORES Working Group
 - Submit issues or pull requests
 - Share feedback on architecture and use cases
