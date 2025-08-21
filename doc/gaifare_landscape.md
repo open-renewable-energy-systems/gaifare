@@ -1,6 +1,6 @@
 # GAIFARE Landscape Scan: Related Projects and Initiatives
 
-This document provides a working overview of initiatives similar to **GAIFARE (Generative AI for Autonomous Renewable Energy)** for discussion and collaborative input. The goal is to identify overlaps, gaps, and collaboration opportunities as GAIFARE develops under LF Energy’s ORES working group.
+This document provides a working overview of initiatives that **GAIFARE (Generative AI for Autonomous Renewable Energy)** can leverage, for discussion and collaborative input. The goal is to identify overlaps, gaps, and collaboration opportunities as GAIFARE develops under LF Energy’s ORES working group.
 
 ---
 
@@ -8,6 +8,7 @@ This document provides a working overview of initiatives similar to **GAIFARE (G
 
 | Project / Initiative | Focus Area | Relation to GAIFARE | Link |
 |----------------------|------------|----------------------|------|
+| **LF GEISA**  | Virtualization layer for edge compute | Deployment base for edge-hosted AI agents |https://lfenergy.org/projects/geisa/|
 | **NREL Autonomous Energy Systems** | Federated learning and intelligent grid agents | Research on decentralized autonomy in energy systems | [https://www.nrel.gov/grid/autonomous-energy](https://www.nrel.gov/grid/autonomous-energy) |
 | **Energy Web / EW-DOS** | Decentralized energy orchestration via blockchain | Decentralized coordination + identity layer | [https://www.energyweb.org/technology/](https://www.energyweb.org/technology/) |
 | **SAREF / ETSI** | Semantic standards for smart appliances | Metadata for GAIFARE agents | [https://saref.etsi.org/](https://saref.etsi.org/) |
